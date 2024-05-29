@@ -36,15 +36,19 @@ Recipes Views:
 
 - SwiftUI
 - UIKit
-- Core Location
-- Speech Synthesis
-- Visionkit
-- Core Animation
+- SOLID principles
+- RxSwift
+- Firebase Push Notification
+- App Store publishing
+- Google Maps 
+- MatchedGeometryEffect and Animation
+- Localization and Lokalise SDK
+- WKWebView
+- CocoaPods
+- Alamofire
+- Swagger 
 - Async/Await
-- AVPlayer 
-- Codable
 - UserDefaults
-- UIActivityViewController
 - MVVM design pattern
 
 
